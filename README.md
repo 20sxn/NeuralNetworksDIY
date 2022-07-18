@@ -1,4 +1,4 @@
-#Projet d'impléméntation de différent réseaux de neurones
+# Projet d'impléméntation de différent réseaux de neurones
 
 Implémentations de différents réseaux de neurones en python, seule bibliothèque requise : Numpy
 
